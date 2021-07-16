@@ -1,2 +1,2 @@
 # WeatherApp_Swift
-WeatherApp using SwiftUI and openweathermap API.
+WeatherApp using SwiftUI, MVVM pattern and openweathermap API.
